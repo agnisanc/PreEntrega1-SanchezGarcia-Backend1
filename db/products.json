@@ -1,0 +1,35 @@
+[
+    {
+		"id": 1,
+		"title": "Collar Jericó",
+		"description": "Plata pura",
+		"price": 75000,
+		"thumbnail": "https://santarellijoyas.com/storage/product_images/CP00137.jpg",
+		"code": "CDP1",
+		"stock": 45,
+        "status": true,
+        "category": "silver"
+	},
+	{
+		"id": 2,
+		"title": "Collar Lisboa",
+		"description": "Plata 925",
+		"price": 45000,
+		"thumbnail": "https://santarellijoyas.com/storage/product_images/CP00143.jpg",
+		"code": "CDP2",
+		"stock": 35,
+        "status": true,
+        "category": "silver"
+	},
+	{
+		"id": 3,
+		"title": "Collar Luxor",
+		"description": "Plata 950",
+		"price": 55000,
+		"thumbnail": "https://santarellijoyas.com/storage/product_images/COB00108.jpg",
+		"code": "CDP3",
+		"stock": 25,
+        "status": true,
+        "category": "silver"
+	}
+]
